@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @heyaxenthDev
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on creating cross-platform applications/site with AI integration
-- 📫 How to reach me: My socials has been linked to my profile. Go check it out. XD
+- 👀 Exploring the realms of Web Development and diving into the wonders of Machine Learning
+- 🌱 Currently immersed in the world of JavaScript, honing my coding skills
+- 💞️ Eager to collaborate on crafting cross-platform applications/sites with a sprinkle of AI magic
+- 📫 Find me on my linked socials. Check it out for a glimpse into my digital universe! XD
 - 😄 Pronouns: they/them, she/hers
-- ⚡ Fun fact: I've just graduate recently, I have experience in working as a UI/UX Designer for my internship.
+- ⚡ Fun fact: Recently graduated with a degree in Information Technology. I bring a blend of tech prowess and UI/UX design experience from my internship escapades. Let's build something amazing together! 🚀
 
 <!---
 heyaxenthDev/heyaxenthDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
